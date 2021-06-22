@@ -1,6 +1,6 @@
 # `sarsoo`
 
-Dev with a background in electronic engineering specialising in AI and nanotechnology.
+Dev with a background in electronic engineering, specialising in AI and nanotechnology.
 
 ![py](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
