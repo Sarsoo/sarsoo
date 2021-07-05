@@ -44,6 +44,14 @@ Web app for building smart Spotify playlists with Last.fm integration for listen
 WASM game of life implementation using `wasm-pack` and a light Js front-end. 
 [Try It Out!](https://sarsoo.github.io/game-of-life/)
 
+### 🔴👾⚫ [Draught](https://github.com/sarsoo/draught)
+`🦀 rust + js`
+
+![gof-ci](https://github.com/sarsoo/draught/actions/workflows/test.yml/badge.svg)
+
+WASM checkers game using `wasm-pack` and a light Js front-end. 
+[Try It Out!](https://sarsoo.github.io/draught/)
+
 ### 📊🎧 [Listening Analysis](https://github.com/Sarsoo/listening-analysis)
 `🐍 py`
 `Jupyter`
