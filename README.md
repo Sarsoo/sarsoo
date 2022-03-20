@@ -59,6 +59,12 @@ WASM checkers game using `wasm-pack` and a light Js front-end.
 Analysing my music listening habits by combining Spotify and Last.fm data. Building a playlist classifier to sort arbitrary tracks using SVMs and MLPs. 
 [Have a Look!](https://github.com/Sarsoo/listening-analysis/blob/master/playlist-nn.ipynb)
 
+### 🎧🎛 [Selector](https://github.com/Sarsoo/Selector)
+`🤖 .NET`
+
+A real-time Spotify listening agent for gathering and presenting stats about what you're currently listening to.
+[Try It Out!](https://selector.sarsoo.xyz/)
+
 <!--
 **Sarsoo/sarsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
