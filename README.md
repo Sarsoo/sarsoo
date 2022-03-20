@@ -36,6 +36,14 @@ Below are some interesting projects I've worked on that you can have a look at a
 Web app for building smart Spotify playlists with Last.fm integration for listening statistics.
 [Try It Out!](https://music.sarsoo.xyz/)
 
+### 🎧🎛 [Selector](https://github.com/Sarsoo/Selector)
+`🤖 .NET`
+
+![selector-ci](https://github.com/sarsoo/Selector/actions/workflows/ci.yml/badge.svg)
+
+A real-time Spotify listening agent for gathering and presenting stats about what you're currently listening to.
+[Try It Out!](https://selector.sarsoo.xyz/)
+
 ### 🎲🐞 [Game of Life](https://github.com/sarsoo/game-of-life)
 `🦀 rust + js`
 
@@ -58,12 +66,6 @@ WASM checkers game using `wasm-pack` and a light Js front-end.
 
 Analysing my music listening habits by combining Spotify and Last.fm data. Building a playlist classifier to sort arbitrary tracks using SVMs and MLPs. 
 [Have a Look!](https://github.com/Sarsoo/listening-analysis/blob/master/playlist-nn.ipynb)
-
-### 🎧🎛 [Selector](https://github.com/Sarsoo/Selector)
-`🤖 .NET`
-
-A real-time Spotify listening agent for gathering and presenting stats about what you're currently listening to.
-[Try It Out!](https://selector.sarsoo.xyz/)
 
 <!--
 **Sarsoo/sarsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
