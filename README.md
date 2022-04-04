@@ -44,14 +44,6 @@ Web app for building smart Spotify playlists with Last.fm integration for listen
 A real-time Spotify listening agent for gathering and presenting stats about what you're currently listening to.
 [Try It Out!](https://selector.sarsoo.xyz/)
 
-### 🎲🐞 [Game of Life](https://github.com/sarsoo/game-of-life)
-`🦀 rust + js`
-
-![gof-ci](https://github.com/sarsoo/game-of-life/actions/workflows/test.yml/badge.svg)
-
-WASM game of life implementation using `wasm-pack` and a light Js front-end. 
-[Try It Out!](https://sarsoo.github.io/game-of-life/)
-
 ### 🔴👾⚫ [Draught](https://github.com/sarsoo/draught)
 `🦀 rust + js`
 
@@ -66,6 +58,14 @@ WASM checkers game using `wasm-pack` and a light Js front-end.
 
 Analysing my music listening habits by combining Spotify and Last.fm data. Building a playlist classifier to sort arbitrary tracks using SVMs and MLPs. 
 [Have a Look!](https://github.com/Sarsoo/listening-analysis/blob/master/playlist-nn.ipynb)
+
+### 🎲🐞 [Game of Life](https://github.com/sarsoo/game-of-life)
+`🦀 rust + js`
+
+![gof-ci](https://github.com/sarsoo/game-of-life/actions/workflows/test.yml/badge.svg)
+
+WASM game of life implementation using `wasm-pack` and a light Js front-end. 
+[Try It Out!](https://sarsoo.github.io/game-of-life/)
 
 <!--
 **Sarsoo/sarsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
