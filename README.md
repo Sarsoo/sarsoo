@@ -27,11 +27,11 @@ Dev with a background in electronic engineering, specialising in AI and nanotech
 
 Below are some interesting projects I've worked on that you can have a look at and try right now.
 
-### 🎷📻 [Music Tools](https://github.com/sarsoo/music-tools)
+### 🎷📻 [Mixonomer](https://github.com/sarsoo/Mixonomer)
 `🐍 py + js`
 `Flask + React`
 
-![music-tools-ci](https://github.com/sarsoo/music-tools/actions/workflows/ci.yml/badge.svg)
+![mixonomer-ci](https://github.com/sarsoo/Mixonomer/actions/workflows/ci.yml/badge.svg)
 
 Web app for building smart Spotify playlists with Last.fm integration for listening statistics.
 [Try It Out!](https://music.sarsoo.xyz/)
