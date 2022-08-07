@@ -34,7 +34,7 @@ Below are some interesting projects I've worked on that you can have a look at a
 ![mixonomer-ci](https://github.com/sarsoo/Mixonomer/actions/workflows/ci.yml/badge.svg)
 
 Web app for building smart Spotify playlists with Last.fm integration for listening statistics.
-[Try It Out!](https://music.sarsoo.xyz/)
+[Try It Out!](https://mixonomer.sarsoo.xyz/)
 
 ### 🎧🎛 [Selector](https://github.com/Sarsoo/Selector)
 `🤖 .NET`
